@@ -1,5 +1,5 @@
 //
-//  JRViewController.h
+//  JRTableViewControllerChallenge.h
 //  UITableView Challenge
 //
 //  Created by Jeff Rhode on 3/24/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface JRViewController : UIViewController
+@interface JRTableViewControllerChallenge : UITableViewController
 
 @end
